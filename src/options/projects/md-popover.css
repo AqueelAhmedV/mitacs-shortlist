@@ -1,0 +1,5 @@
+.markdown > * {
+    all: revert;
+  }
+
+
